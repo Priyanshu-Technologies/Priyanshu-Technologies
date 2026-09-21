@@ -6,7 +6,7 @@
 
 <br>
 
-<h1 align="center">Hi, I'm Priyanshu Sharma 👋</h1>
+<h1 align="center">Hey, welcome to my side of GitHub — I'm Priyanshu Sharma 👋</h1>
 
 <p align="center">
   <strong>Artificial Intelligence & Machine Learning · Engineering · Computational Physics</strong>
