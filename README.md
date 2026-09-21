@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Priyanshu Sharma">
+<img src="./banner.png" width="100%" alt="Priyanshu Sharma">
 
 </div>
 
