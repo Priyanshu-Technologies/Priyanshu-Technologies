@@ -57,6 +57,7 @@ I'm particularly interested in **machine learning, deep learning, computer visio
 <img src="https://img.shields.io/badge/CNNs-111827?style=for-the-badge">
 <img src="https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge">
 <img src="https://img.shields.io/badge/Model%20Calibration-374151?style=for-the-badge">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
 </p>
 
 ### 📊 Data & Scientific Computing
@@ -87,7 +88,23 @@ I'm particularly interested in **machine learning, deep learning, computer visio
 
 <td width="33%" valign="top">
 
-### 🛡️ SteelGuard
+### CrackVision
+
+**AI-Powered Surface Defect Detection**
+
+Detects and segments potential surface defects using a trained YOLO11 model, with visual prediction overlays and a deployable Streamlit application.
+
+**Built with**
+
+`Python` `YOLO11` `OpenCV` `Ultralytics` `Pytorch` `NumPy` `Streamlit` `Docker` 
+
+[View Repository →](https://github.com/Priyanshu-Technologies/CrackVision)
+
+</td>
+
+<td width="33%" valign="top">
+
+### SteelGuard
 
 **Industrial Computer Vision**
 
@@ -103,7 +120,7 @@ AI-powered steel surface inspection for detecting and classifying manufacturing 
 
 <td width="33%" valign="top">
 
-### 🏭 Predictive Maintenance
+### Predictive Maintenance
 
 **Industrial Machine Learning**
 
@@ -119,7 +136,7 @@ Predicts equipment failure risk from operational data and exposes the trained mo
 
 <td width="33%" valign="top">
 
-### 🌡️ Heat Exchanger Prediction
+### Heat Exchanger Prediction
 
 **Industrial Sensor ML**
 
