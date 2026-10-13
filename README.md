@@ -133,22 +133,5 @@ Predicts equipment failure risk from operational data and exposes the trained mo
 [View Repository →](https://github.com/Priyanshu-Technologies/predictive-maintenance)
 
 </td>
-
-<td width="33%" valign="top">
-
-### Heat Exchanger Prediction
-
-**Industrial Sensor ML**
-
-Predicts heat-exchanger temperature from sensor measurements while comparing multiple regression approaches.
-
-**Built with**
-
-`Python` `XGBoost` `Random Forest` `scikit-learn` `Pandas` `NumPy`
-
-[View Repository →](https://github.com/Priyanshu-Technologies/heat-exchanger-temperature-prediction)
-
-</td>
-
 </tr>
 </table>
