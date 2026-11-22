@@ -9,17 +9,21 @@
 <h1 align="center">Hey, welcome to my side of GitHub — I'm Priyanshu Sharma 👋</h1>
 
 <p align="center">
-  <strong>Artificial Intelligence & Machine Learning · Engineering · Computational Physics</strong>
+  <strong>Artificial Intelligence & Machine Learning · Software Engineering</strong>
 </p>
 
 <p align="center">
-  I develop AI/ML and engineering solutions across computer vision, predictive modeling, simulation, and scientific computing.
+  I develop AI/ML and engineering solutions across computer vision, predictive modeling, systems, and scientific computing.
 </p>
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/priyanshu-sharma-646233394/">
-<img src="https://img.shields.io/badge/LinkedIn-Priyanshu%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Priyanshu%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://seattle-os.princesharma99876.workers.dev/">
+<img src="https://img.shields.io/badge/Portfolio-Priyanshu%20Sharma-6C47FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
 </a>
 
 </p>
@@ -47,6 +51,11 @@ I'm particularly interested in **machine learning, deep learning, computer visio
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 <img src="https://img.shields.io/badge/XGBoost-1E88E5?style=for-the-badge">
+  <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" alt="RAG">
+<img src="https://img.shields.io/badge/Hybrid%20Search%20(BM25)-374151?style=for-the-badge" alt="Hybrid Search">
+<img src="https://img.shields.io/badge/Reranking-374151?style=for-the-badge" alt="Reranking">
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
+<img src="https://img.shields.io/badge/FastEmbed-374151?style=for-the-badge" alt="FastEmbed">
 </p>
 
 ### 👁️ Computer Vision & Deep Learning
@@ -66,6 +75,7 @@ I'm particularly interested in **machine learning, deep learning, computer visio
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 <img src="https://img.shields.io/badge/Scientific%20Computing-374151?style=for-the-badge">
 </p>
@@ -85,6 +95,21 @@ I'm particularly interested in **machine learning, deep learning, computer visio
 
 <table>
 <tr>
+<td width="33%" valign="top">
+
+### NORAG
+
+**Next-generation Orchestrated Retrieval-Augmented Generation — a modular, self-hostable RAG engine built from scratch.**
+
+A RAG system that checks its own answers against your documents, entirely offline. All of it runs on your laptop: no API keys, no cloud, no data leaving your machine.
+
+**Built with**
+
+`Python` `FastAPI` `FastEmbed` `Ollama` `SQLite` `React 19` `TypeScript` `Vite` `pytest`
+
+[View Repository →](https://github.com/Priyanshu-Technologies/NORAG)
+
+</td>
 
 <td width="33%" valign="top">
 
@@ -115,22 +140,6 @@ AI-powered steel surface inspection for detecting and classifying manufacturing 
 `Python` `PyTorch` `Torchvision` `OpenCV` `CNN`
 
 [View Repository →](https://github.com/Priyanshu-Technologies/industrial-surface-defect-detection)
-
-</td>
-
-<td width="33%" valign="top">
-
-### Predictive Maintenance
-
-**Industrial Machine Learning**
-
-Predicts equipment failure risk from operational data and exposes the trained model through a deployable API.
-
-**Built with**
-
-`Python` `XGBoost` `Pandas` `scikit-learn` `FastAPI` `Docker`
-
-[View Repository →](https://github.com/Priyanshu-Technologies/predictive-maintenance)
 
 </td>
 </tr>
